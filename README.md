@@ -1,2 +1,2 @@
 # datacamp-notes
-Personal notes from Datacamp courses
+This repository contains my personal notes and exercises from Datacamp courses.
